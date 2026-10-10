@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#051c2c"/>
-  <text x="32" y="41" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle">ETD</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110.0 110.0" width="110" height="110" role="img"><title>ETD</title><rect x="0" y="0" width="110" height="110" fill="#051C2C"/><path d="M18.0 72.0V43.0H37.8L37.8 48.0H23.8V55.0H36.0V59.8H23.8V67.0L38.0 67.0V72.0ZM50.4 72.0V48.2H41.7V43.0H64.8V48.2H56.3V72.0ZM69.6 72.0V43.0Q69.8 43.0 70.8 43.0Q71.8 43.0 73.2 43.0Q74.6 43.0 75.9 43.0Q77.3 43.0 78.2 43.1Q83.5 43.2 86.8 45.0Q90.1 46.7 91.7 49.9Q93.2 53.0 93.2 57.4Q93.2 61.8 91.6 65.1Q90.0 68.4 86.6 70.2Q83.2 72.0 78.0 72.0ZM75.5 67.2H78.2Q80.6 67.2 82.7 66.3Q84.7 65.3 85.9 63.1Q87.1 61.0 87.1 57.3Q87.1 53.9 86.1 51.8Q85.0 49.7 83.0 48.7Q81.0 47.8 78.2 47.8H75.5Z" fill="#FFFFFF"/><rect x="94" y="94" width="16" height="16" fill="#2251FF"/></svg>

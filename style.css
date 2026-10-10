@@ -1101,3 +1101,13 @@ section.block, .page-hero { padding-left: max(24px, calc((100% - 1112px) / 2)); 
 @media (max-width: 860px) {
   .bento-hero.photo-hero { background: linear-gradient(180deg, rgba(5,28,44,0.7) 0%, rgba(5,28,44,0.92) 55%, rgba(5,28,44,0.97) 100%), url('images/offshore-hero.jpg') 75% center / cover no-repeat; }
 }
+
+/* ---------- Ny logo (D1 + V3) ---------- */
+.logo-img { height: 50px; width: auto; }
+.footer-grid .logo-img { height: auto; width: min(250px, 100%); }
+.footer-grid .logo { display: block; margin-bottom: 16px; }
+@media (max-width: 600px) {
+  .logo-img { height: 42px; }
+  .footer-grid > div:first-child { grid-column: 1 / -1; }
+}
+@media (min-width: 861px) { .logo-img { height: 56px; } }
