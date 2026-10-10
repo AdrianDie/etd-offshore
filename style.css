@@ -1094,3 +1094,10 @@ section.block, .page-hero { padding-left: max(24px, calc((100% - 1112px) / 2)); 
 .svc-list li { display: grid; grid-template-columns: minmax(0, 200px) minmax(0, 1fr); gap: 24px; }
 .svc-list .desc { text-align: left; max-width: none; }
 @media (max-width: 600px) { .svc-list li { grid-template-columns: 1fr; gap: 6px; } }
+.bento-hero.photo-hero {
+  background: linear-gradient(90deg, rgba(5,28,44,0.95) 0%, rgba(5,28,44,0.82) 45%, rgba(5,28,44,0.3) 100%), url('images/offshore-hero.jpg') 70% center / cover no-repeat;
+  padding-top: 160px; padding-bottom: 120px;
+}
+@media (max-width: 860px) {
+  .bento-hero.photo-hero { background: linear-gradient(180deg, rgba(5,28,44,0.7) 0%, rgba(5,28,44,0.92) 55%, rgba(5,28,44,0.97) 100%), url('images/offshore-hero.jpg') 75% center / cover no-repeat; }
+}
